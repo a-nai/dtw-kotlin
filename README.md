@@ -1,5 +1,5 @@
 # fft-kotlin
-fast fourier transform - in kotlin
+dynamic time warping - in kotlin
 
 
             val distFn = DistanceFunctionFactory.getDistFnByName("EuclideanDistance");
